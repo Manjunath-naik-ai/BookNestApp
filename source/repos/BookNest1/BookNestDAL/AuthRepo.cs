@@ -8,7 +8,7 @@ using BookNestDAL.Models;
 
 namespace BookNestDAL
 {
-    internal class AuthRepo
+    public  class AuthRepo
     {
         public BookLibraryDbContext _context;
         public AuthRepo()
@@ -43,6 +43,11 @@ namespace BookNestDAL
 
             return user;
         }
+        public User GetUserByEmail(string email)
+        {
+            return _context.Users.FirstOrDefault(u => u.Email == email);
+        }
+
     }
 }
 

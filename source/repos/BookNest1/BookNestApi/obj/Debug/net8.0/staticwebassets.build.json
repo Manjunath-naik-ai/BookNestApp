@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "q+2pDVa9fmJZk65ZbSaDCNfE+np2kIV06fGyUNu7Eqg=",
+  "Source": "BookNestApi",
+  "BasePath": "_content/BookNestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
