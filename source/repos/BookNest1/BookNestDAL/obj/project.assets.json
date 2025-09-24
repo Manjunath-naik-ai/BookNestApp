@@ -4728,11 +4728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2KE1E\\source\\repos\\BookNest1\\BookNestDAL\\BookNestDAL.csproj",
+      "projectUniqueName": "C:\\Users\\2KE1E\\Source\\Repos\\BookNestApp\\source\\repos\\BookNest1\\BookNestDAL\\BookNestDAL.csproj",
       "projectName": "BookNestDAL",
-      "projectPath": "C:\\Users\\2KE1E\\source\\repos\\BookNest1\\BookNestDAL\\BookNestDAL.csproj",
+      "projectPath": "C:\\Users\\2KE1E\\Source\\Repos\\BookNestApp\\source\\repos\\BookNest1\\BookNestDAL\\BookNestDAL.csproj",
       "packagesPath": "C:\\Users\\2KE1E\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2KE1E\\source\\repos\\BookNest1\\BookNestDAL\\obj\\",
+      "outputPath": "C:\\Users\\2KE1E\\Source\\Repos\\BookNestApp\\source\\repos\\BookNest1\\BookNestDAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
