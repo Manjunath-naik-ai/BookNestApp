@@ -17,22 +17,6 @@
   },
   {
     "ContainingType": "BookNestApi.Controllers.AuthController",
-    "Method": "Login",
-    "RelativePath": "api/Auth/login",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "loginUser",
-        "Type": "BookNestDAL.Models.User",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "BookNestApi.Controllers.AuthController",
     "Method": "Register",
     "RelativePath": "api/Auth/register",
     "HttpMethod": "POST",

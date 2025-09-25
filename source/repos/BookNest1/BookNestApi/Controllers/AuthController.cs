@@ -38,7 +38,7 @@ namespace BookNestApi.Controllers
         }
 
         // POST: /api/auth/login
-        [HttpPost("login")]
+        
         [HttpPost("login")]
         public IActionResult Login([FromBody] User loginUser)
         {
